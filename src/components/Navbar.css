@@ -1,0 +1,13 @@
+.mb-container{
+    margin: 0px !important;
+    padding: 0px !important;
+    box-sizing: border-box !important;
+    color: #c9bdbd;
+}
+/* .mb-nav{
+    width: 100vw;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+} */
