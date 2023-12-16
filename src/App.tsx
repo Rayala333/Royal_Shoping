@@ -3,7 +3,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 import {BrowserRouter,Routes,Route} from 'react-router-dom'
 import Product from './components/Product';
-// import Cart from './components/Cart';
+import Cart from './components/Cart';
 
 function App() {
   return (
